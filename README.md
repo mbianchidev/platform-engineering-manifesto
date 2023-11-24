@@ -11,7 +11,7 @@ Through this work we have come to value:
 
 **Listening to developer feedback** over business driven requirements
 
-**Tailoring the platform to the needs** over enforcing standards top down
+**Tailoring the platform to dev needs** over enforcing standards top down
 
 That is, while there is value in the items on
 the right, we value the items on the left more.
