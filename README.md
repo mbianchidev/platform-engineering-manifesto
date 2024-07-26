@@ -1,3 +1,6 @@
+# Dismissed, see this file instead https://github.com/mbianchidev/platform-engineering-roadmap/blob/main/platform-engineering-manifesto.md
+
+
 # Manifesto for Platform Engineering
 
 We are uncovering better ways of creating 
